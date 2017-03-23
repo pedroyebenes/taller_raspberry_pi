@@ -68,7 +68,7 @@ Create a databe for wordpress:
 Remember that we use 'toor' as a password.
 * `> create database wordpress;`
 
-Install wordpress from web browser:
+Access to *localhost/wordpress* to configure wordpress.
 
 * When wordpress warns that it cannot create *wp-config.php* file, we create it: `sudo nano /var/www/wordpress/wp-config.php`, and copy the displayed code.
 
